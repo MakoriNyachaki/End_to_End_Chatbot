@@ -4,11 +4,17 @@ _End-to-End chatbot is a tool that holds a converation from the start to end wit
 
 The program involves writing a computer program that can understand user requestand generate responses as per the requests.
 The whole process involves:
-** Collecting data
-** Choosing a programming language and NLP.
-** Training the chatbot.
-** Testing and refining the application.
-** Making it available to te users.
+
+** Collecting data**
+
+** Choosing a programming language and NLP.**
+
+** Training the chatbot.**
+
+** Testing and refining the application.**
+
+** Making it available to te users.**
+
 
 Once deployed the user can interract with the chatbot by sending it multiple requests and it can handle the entire conversation.
 
