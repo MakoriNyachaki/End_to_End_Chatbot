@@ -13,8 +13,8 @@ nltk.data.path.append(os)
 
 intents = [
 	{
-		"tag": "greeting"
-		"responses": ["Hi there", "Hello", "Hey", "I'm fine, thank you", "Nothing much"]
+		"tag": "greeting",
+		"responses": ["Hi there", "Hello", "Hey", "I'm fine, thank you", "Nothing much"],
 		"patterns": ["Hi", "Hello", "How are you", "What's up"]
 	},
 	{
@@ -58,7 +58,7 @@ intents = [
 		"responses": []
 	
 	}
-
+]
 # Create the vectorizer and the classfier
 
 vectorizer = TfidfVectorizer()
