@@ -31,4 +31,20 @@ Once deployed the user can interract with the chatbot by sending it multiple req
 * Test the chatbot
 
 * Deploy the chatbot
-~                         
+
+### Deployment
+
+After building the chatbot, write a python function to test the chatbot.
+To deploy the chatboat we will use the _streamlit_ library in Python which provides amazing features to create  a user interface for a Machine Learning application with few lines of code. The main() function deploys the model as illustrated in the code.
+
+
+_To run the chatbot, use the following command:_
+
+
+'''streamlit run filename.py'''                        
+
+After executing the code an interface to caht with the bot is displayed.
+
+_Example of what is displayed(image):_
+
+![A screenshot of the chatbot interface displayed after running.](/home/makori/Pictures/Screenshots/Screenshot from 2024-03-18 12-20-53.png)
