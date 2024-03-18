@@ -47,4 +47,4 @@ After executing the code an interface to caht with the bot is displayed.
 
 _Example of what is displayed(image):_
 
-![A screenshot of the chatbot interface displayed after running.]('/home/makori/Pictures/Screenshots/Screenshot from 2024-03-18 12-20-53.png') 
+![A screenshot of the chatbot interface displayed after running.]('/home/makori/Pictures/Screenshots/chatbot.png')
